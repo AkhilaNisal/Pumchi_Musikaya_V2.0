@@ -1,4 +1,4 @@
-# Pumchi_Musikaya_V2.0# 🐭 Pumchi Musikaya V2.0
+# 🐭 Pumchi Musikaya V2.0
 
 <p align="center">
   <img src="PCB/3D_view_top.png" width="650">
