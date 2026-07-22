@@ -111,11 +111,6 @@ The PCB contains:
 </p>
 
 
-### Manufactured PCB
-
-<p align="center">
-<img src="PCB/pcb.png" width="600">
-</p>
 
 
 ---
@@ -304,22 +299,6 @@ Pumchi_Musikaya_V2.0
 
 ---
 
-# 📸 Gallery
-
-
-## PCB Design
-
-<p align="center">
-<img src="PCB/3D_view_top.png" width="45%">
-<img src="PCB/3D_view_bottom.png" width="45%">
-</p>
-
-
-## Robot Assembly
-
-(Add robot images here)
-
----
 
 # 🚀 Future Improvements
 
